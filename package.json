@@ -1,0 +1,11 @@
+{
+    "name": "website-project",
+    "version": "1.0.0",
+    "description": "web application project",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
